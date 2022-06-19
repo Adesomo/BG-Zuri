@@ -30,6 +30,10 @@ body {
 
 
 
+    body {
+        background-image: url(bg-intro-mobile.png);
+    }
+
     .flexcontainer,
     .flex1 {
         display: block;
@@ -37,7 +41,8 @@ body {
         left: 29px;
 
     }
-    .flexcontainer{
+
+    .flexcontainer {
         width: 1050px;
     }
 
